@@ -28,26 +28,26 @@ h2 {
   clear: both; }
 
 .formsInput ::-webkit-input-placeholder {
-  color: blue; }
+  color: darkgray; }
 
 .formsInput::-webkit-input-placeholder {
-  color: blue; }
+  color: darkgray; }
 
 ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  color: blue; }
+  color: darkgray; }
 
 ::-moz-placeholder {
   /* Firefox 19+ */
-  color: blue; }
+  color: darkgray; }
 
 :-ms-input-placeholder {
   /* IE 10+ */
-  color: blue; }
+  color: darkgray; }
 
 :-moz-placeholder {
   /* Firefox 18- */
-  color: blue; }
+  color: darkgray; }
 
 .formsInput {
   border-radius: 6px;

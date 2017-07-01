@@ -87,29 +87,29 @@ input.placeholderius {
 
 // vovere narve
 .formsInput ::-webkit-input-placeholder {
-  color: blue;
+  color: darkgray;
 }
 
 // vovere, kuri yra narvas (skiriasi nuo praeito)
 .formsInput::-webkit-input-placeholder {
-  color: blue;
+  color: darkgray;
 }
 
 // Vovere
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: blue;
+  color: darkgray;
 }
 
 ::-moz-placeholder { /* Firefox 19+ */
-  color: blue;
+  color: darkgray;
 }
 
 :-ms-input-placeholder { /* IE 10+ */
-  color: blue;
+  color: darkgray;
 }
 
 :-moz-placeholder { /* Firefox 18- */
-  color: blue;
+  color: darkgray;
 }
 
 
